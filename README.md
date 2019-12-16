@@ -1,16 +1,20 @@
-# vuextodomanager
+# Vue Todo Manager
 
-## Project setup
+This is a very basic Vue Todo Manager developed with the help of Vuex
+
+Before Running this application please do the following
+
+## For installing the Dependencies
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### For running the application in Development mode
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### For running the application in Production mode
 ```
 npm run build
 ```
@@ -18,7 +22,4 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
